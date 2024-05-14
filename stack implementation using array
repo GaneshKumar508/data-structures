@@ -42,7 +42,7 @@ void pop(){
 	}
 }
 void display(){
-	if(top==-1)
+	if(top==1)
 	printf("\nstack is empty.");
 	else{
   int i;
